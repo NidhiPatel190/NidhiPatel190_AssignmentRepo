@@ -20,7 +20,7 @@
 ### Installation Steps:
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/ketulpatel01/ketulpatel01_AssignmentRepo/tree/main/Final%20Assignment
+   git clone https://github.com/NidhiPatel190/NidhiPatel190_AssignmentRepo/tree/main/Final%20Assignment
    ```
 
 2. **Install project dependencies:**
